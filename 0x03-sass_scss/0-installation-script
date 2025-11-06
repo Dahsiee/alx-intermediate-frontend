@@ -1,0 +1,4 @@
+1. I navigated to my existing repository ALX-Intermediate-Frontend using cd and confirmed the directory with ls.
+2. I navigated to the 0x03-sass_scss directory using cd.
+3. I installed Sass globally using npm install -g sass.
+4. I verified the installation by checking the version with sass --version.
